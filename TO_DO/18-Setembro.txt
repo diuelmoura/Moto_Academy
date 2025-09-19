@@ -1,0 +1,11 @@
+Arquivo utilizado para registrar perguntas e tirar duvidas
+Pesquisar por palavras que não conheço para pesquisar posteriormente
+
+Aula 18/09/2025
+* Estudar Angular e Formatos de Tela para o projeto
+* Conseguir CVs
+* Atualizar Boards no TRELLO
+* Query params
+* async
+* Aprender passo a passo a criar um projeto utilzando node.js a consumir uma API
+
