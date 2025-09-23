@@ -1,11 +1,25 @@
 Arquivo utilizado para registrar perguntas e tirar duvidas
 Pesquisar por palavras que não conheço para pesquisar posteriormente
 
-Aula 18/09/2025
+Sites: 
+https://publicapis.dev/
+https://trello.com/b/9wqCjdJL/moto-academy-document-classifier
+https://dontpad.com/magicproject
+https://api.scryfall.com/cards/named?fuzzy=aust+com
+
+
+
+Aula Quinta-Feira 18/09/2025 
 * Estudar Angular e Formatos de Tela para o projeto
 * Conseguir CVs
 * Atualizar Boards no TRELLO
 * Query params
 * async
-* Aprender passo a passo a criar um projeto utilzando node.js a consumir uma API
+* Aprender passo a passo a criar um projeto utilzando node.js e consumir uma API
+
+
+Aula Terça-Feira 23/09/2025
+* 
+* 
+* 
 
