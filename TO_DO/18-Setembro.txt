@@ -3,6 +3,7 @@ Pesquisar por palavras que não conheço para pesquisar posteriormente
 
 Sites: 
 https://publicapis.dev/
+https://dontpad.com/motoacademy
 https://trello.com/b/9wqCjdJL/moto-academy-document-classifier
 https://dontpad.com/magicproject
 https://api.scryfall.com/cards/named?fuzzy=aust+com
@@ -16,10 +17,5 @@ Aula Quinta-Feira 18/09/2025
 * Query params
 * async
 * Aprender passo a passo a criar um projeto utilzando node.js e consumir uma API
-
-
-Aula Terça-Feira 23/09/2025
-* 
-* 
-* 
+* Migrations
 
